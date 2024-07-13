@@ -35,7 +35,7 @@ To start the game, navigate to the src directory in your terminal or command pro
 - Game Over Screen: Displays a "Game Over" message when the player's HP reaches 0.
 
 ## Development
-- RoboPac is developed using Python and Pygame. The game's source code is structured as follows:
+- RoboPac is developed using Python and Pygame.
 
 ## To do list
 Create new levels for the latter part of the game
