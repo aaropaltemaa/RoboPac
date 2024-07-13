@@ -23,19 +23,19 @@ To start the game, navigate to the src directory in your terminal or command pro
 
 ## Gameplay
 
--Objective: Collect coins, avoid monsters, and survive as long as possible.
--Controls: Use the WASD keys to move the robot around the screen.
--Coins: Collecting 300 coins will spawn a door to the next level. Your coin counter resets after reaching 300.
--Monsters: Avoid monsters or lose health points (HP). The game ends when your HP reaches 0.
+- Objective: Collect coins, avoid monsters, and survive as long as possible.
+- Controls: Use the WASD keys to move the robot around the screen.
+- Coins: Collecting 300 coins will spawn a door to the next level. Your coin counter resets after reaching 300.
+- Monsters: Avoid monsters or lose health points (HP). The game ends when your HP reaches 0.
 
 ## Features
 
--Dynamic Monster Spawning: Monsters spawn at intervals, increasing the game's difficulty as time progresses.
--Health System: Keep an eye on your HP. The game ends when you run out of health.
--Game Over Screen: Displays a "Game Over" message when the player's HP reaches 0.
+- Dynamic Monster Spawning: Monsters spawn at intervals, increasing the game's difficulty as time progresses.
+- Health System: Keep an eye on your HP. The game ends when you run out of health.
+- Game Over Screen: Displays a "Game Over" message when the player's HP reaches 0.
 
 ## Development
--RoboPac is developed using Python and Pygame. The game's source code is structured as follows:
+- RoboPac is developed using Python and Pygame. The game's source code is structured as follows:
 
 ## To do list
 Create new levels for the latter part of the game
