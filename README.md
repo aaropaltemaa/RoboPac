@@ -14,7 +14,10 @@ Before you can run RoboPac, you need to ensure you have Python and Pygame instal
 
 ## Running the Game
 
-To start the game, simply click on the triangle in the top right corner of the main.py file.
+To start the game, navigate to the src directory in your terminal or command prompt and run the main.py file with Python:
+
+cd src
+python main.py
 
 ## Gameplay
 
